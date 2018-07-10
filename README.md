@@ -29,38 +29,38 @@ This project uses a simple CNN against MNIST dataset; the idea behind the projec
 # 2. Filters' Weight:
 
 **2.1. First Conv Layer**
- ![alt text](https://raw.githubusercontent.com/masjadaan/Convolutional_Neural_Network_CNN/master/CNN_On_MINST/Weights_Conv1.png)
+ ![alt text](https://raw.githubusercontent.com/masjadaan/CNN_MINST/master/Weights_Conv1.png)
  
  **2.2. Second Conv Layer**
-  ![alt text](https://raw.githubusercontent.com/masjadaan/Convolutional_Neural_Network_CNN/master/CNN_On_MINST/Weights_Conv2.png)
+  ![alt text](https://raw.githubusercontent.com/masjadaan/CNN_MINST/master/Weights_Conv2.png)
   
 # 3. Activation Maps:
 
   **3.1. Input Layer**
   
-  ![alt text](https://raw.githubusercontent.com/masjadaan/Convolutional_Neural_Network_CNN/master/CNN_On_MINST/InputLayer.png)
+  ![alt text](https://raw.githubusercontent.com/masjadaan/CNN_MINST/master/InputLayer.png)
   
   **3.2. First Conv Layer**
   
-  ![alt text](https://raw.githubusercontent.com/masjadaan/Convolutional_Neural_Network_CNN/master/CNN_On_MINST/Conv1.png)
+  ![alt text](https://raw.githubusercontent.com/masjadaan/CNN_MINST/master/Conv1.png)
   
   **3.3. First MaxPool Layer**
   
-  ![alt text](https://raw.githubusercontent.com/masjadaan/Convolutional_Neural_Network_CNN/master/CNN_On_MINST/MaxPool_1.png)
+  ![alt text](https://raw.githubusercontent.com/masjadaan/CNN_MINST/master/MaxPool_1.png)
   
   **3.4. Second Conv Layer**
   
-  ![alt text](https://raw.githubusercontent.com/masjadaan/Convolutional_Neural_Network_CNN/master/CNN_On_MINST/Conv_2.png)
+  ![alt text](https://github.com/masjadaan/CNN_MINST/blob/master/Conv_2.png)
   
   **3.5. Second MaxPool layer**
   
-  ![alt text](https://raw.githubusercontent.com/masjadaan/Convolutional_Neural_Network_CNN/master/CNN_On_MINST/MaxPool_2.png)
+  ![alt text](https://raw.githubusercontent.com/masjadaan/CNN_MINST/master/MaxPool_2.png)
   
   **3.6. Flatten layer**
   
-  ![alt text](https://raw.githubusercontent.com/masjadaan/Convolutional_Neural_Network_CNN/master/CNN_On_MINST/Flatten.png)
+  ![alt text](https://raw.githubusercontent.com/masjadaan/CNN_MINST/master/Flatten.png)
   
   **3.7. Output Layer**
   
-  ![alt text](https://raw.githubusercontent.com/masjadaan/Convolutional_Neural_Network_CNN/master/CNN_On_MINST/Dense.png)
+  ![alt text](https://raw.githubusercontent.com/masjadaan/CNN_MINST/master/Dense.png)
   
